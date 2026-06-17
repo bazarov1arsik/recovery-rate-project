@@ -1,0 +1,6 @@
+GBR (N=91): R = 32.8638%, A = 4.5380%
+TSI balanced (N=91): R = 34.8282%, A = 4.4498%
+ΔR = 1.9644%
+DA = 1.96%
+Bootstrap 95% CI: [0.3969%, 2.4232%]
+Permutation test p-value = 0.0001
